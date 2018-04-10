@@ -1,0 +1,21 @@
+// Place all the styles related to the People controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#forms {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #D7D7D7;
+	padding: 25px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+.errors {
+	list-style: none;
+}
+
+.messages {
+	width: 35%;
+}
